@@ -1,0 +1,23 @@
+{
+    "name": "Saladict Translate",
+    "identifier": "pantherbar.saladict",
+    "icon": "logo.png",
+    "actions": [
+        {
+            "title": "Saladict Translate",
+            "icon": "saladict.png",
+            "batchFile": null,
+            "keyCombo": null,
+            "powershellFile": "key.ps1",
+            "pythonFile": null,
+            "regEx": null,
+            "options": [{
+                "identifier": "TextProcess",
+                "values": {
+                    "自动分段": "process",
+                    "原始文本": "initial"
+                }
+            }]
+        }
+    ]
+}

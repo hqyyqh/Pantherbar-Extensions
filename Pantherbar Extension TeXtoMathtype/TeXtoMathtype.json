@@ -1,0 +1,15 @@
+{
+    "name": "Word: TeX to Mathtype",
+    "identifier": "pantherbar.TeXtoMathtype",
+    "icon": "icon.png",
+    "actions": [
+        {
+            "title": "Word: TeX to Mathtype",
+            "icon": "icon.png",
+            "batchFile": null,
+            "keyCombo": "%\\",
+            "pythonFile": null,
+            "regEx": "\\$.*\\$"
+        }
+    ]
+}
