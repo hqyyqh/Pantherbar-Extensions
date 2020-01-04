@@ -10,6 +10,6 @@
 2. 在 Win10 应用商店安装 [Pantherbar](https://www.microsoft.com/zh-cn/p/pantherbar/9npz2tvkjvt7?rtc=1&activetab=pivot:overviewtab)
 3. 下载 `.pbar` 文件，双击安装
 
-![PantherbarSaladict](/image/PantherbarSaladict.gif)
-![](/image/Segment.jpg)
-![](/image/Select.jpg)
+![PantherbarSaladict](image/PantherbarSaladict.gif)
+![](image/Segment.jpg)
+![](image/Select.jpg)
