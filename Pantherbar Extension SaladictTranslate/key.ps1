@@ -17,7 +17,7 @@ $ShortCut = "%l"
 # 末尾结束标点，与下一句分段
 $RegexEndPunctuation = '[\\.:;!。！？：\s]$'
 # 开头项目标点，与前一句分段
-$RegexItemIdentify = '^•|^–\s|^Chapter\s[1-9][0-9]{0,1}|^(\d*\.)+\d*\s|^\d*\.\s|^·|^\[\d*\]\s[A-Z]'
+$RegexItemIdentify = '^•|^–\s|^Chapter\s[1-9][0-9]{0,1}|^(\d*\.)+\d*\s|^\d*\.\s|^·|^\[\d*\]\s[A-Z]|^\d\)\s|^\d）'
 # 末尾常见缩写词，防误判分段
 $RegexEndAbbr = ' fig\.$| et al\.$| Fig\.$| Eq\.$| eq\.$| p\.$| pp\.$| Ph\.D\.$|cf\.$|Cf\.$|,\s\d{4};$|\.\s\(\d{4}\);$'
 # 末尾英语字母或数字
